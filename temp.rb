@@ -15,4 +15,4 @@ reverse_an_array(example_array)
 
 
 array = [1,2,3,4]
-puts array.reverse 
+ array.reverse 
